@@ -1,0 +1,3 @@
+https://discord.com/channels/883478451850473483/905140336643412009
+
+[[IRL-EUROPE]]

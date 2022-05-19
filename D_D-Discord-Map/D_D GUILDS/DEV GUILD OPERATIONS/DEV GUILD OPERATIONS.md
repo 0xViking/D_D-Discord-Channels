@@ -1,0 +1,3 @@
+DEV GUILD OPERATIONS base
+
+[[D_D GUILDS]]

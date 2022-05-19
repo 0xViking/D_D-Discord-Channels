@@ -1,0 +1,3 @@
+https://discord.com/channels/883478451850473483/909616191729958982
+
+[[WRITERS GUILD]]

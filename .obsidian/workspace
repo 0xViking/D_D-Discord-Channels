@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "e3a213c5ee8a1662",
+    "type": "split",
+    "children": [
+      {
+        "id": "a805fa2cb81b67c4",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "62e314d36ba3057e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9cfbb28ceb02f1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c5de51fc050a157",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "552b63ca716323d8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "IRL-CHANNELS",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "15cb38cd5895ea44",
+    "type": "split",
+    "children": [
+      {
+        "id": "90908ccc30d84f9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6ca80eeba3a381f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "a805fa2cb81b67c4",
+  "lastOpenFiles": [
+    "D_D-Discord-Map/SOCIAL/SOCIAL SPORTS/SOCIAL SPORTS.md",
+    "D_D-Discord-Map/SOCIAL/SOCIAL GENERAL/SOCIAL GENERAL.md",
+    "D_D-Discord-Map/SOCIAL/SOCIAL ENTERTAINMENT/SOCIAL ENTERTAINMENT.md",
+    "D_D-Discord-Map/SOCIAL/SOCIAL.md",
+    "D_D-Discord-Map/IRL-CHANNELS/IRL-CHANNELS.md",
+    "D_D-Discord-Map/D_D GUILDS/COMMUNITY GUILD/COMMUNITY GUILD.md",
+    "D_D-Discord-Map/D_D GUILDS/WRITERS GUILD/WRITERS GUILD.md",
+    "D_D-Discord-Map/D_D GUILDS/MBD PARTNERSHIPS-2/MBD PARTNERSHIPS-2.md",
+    "D_D-Discord-Map/D_D GUILDS/MBD INITIATIVES/MBD INITIATIVES.md",
+    "D_D-Discord-Map/D_D GUILDS/MARKETING BIZDEV GUILD/MARKETING BIZDEV GUILD.md"
+  ]
+}

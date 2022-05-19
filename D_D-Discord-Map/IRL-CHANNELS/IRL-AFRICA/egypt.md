@@ -1,0 +1,3 @@
+https://discord.com/channels/883478451850473483/920514691304919061
+
+[[IRL-AFRICA]]

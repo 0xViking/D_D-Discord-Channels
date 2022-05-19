@@ -1,0 +1,3 @@
+MBD PARTNERSHIPS-2 base
+
+[[D_D GUILDS]]
