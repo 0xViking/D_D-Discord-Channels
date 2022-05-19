@@ -1,6 +1,6 @@
 # Developer Dao discord channels simplified view
 
---- If you want to update any channel data you can raise issue or just do tha change and raise PR ---
+--- If you want to update any channel data you can raise issue or just do the change and raise PR ---
 
 After following the steps mentioned below you can see output of the D_D discord channels as below.
 
