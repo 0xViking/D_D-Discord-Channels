@@ -22,4 +22,4 @@ Each node represents a channel and if you click on those nodes a markdown file w
 
 DONE! 
 
-Now you can see the whole D_D discord channels at one place with more ease, you can select the node(channel) which you want to visit it will consist the link to that channel in the md file
+Now you can see the whole D_D discord channels at one place with more ease, you can select the node(channel) which you want to visit it will have the link to that channel in the md file
